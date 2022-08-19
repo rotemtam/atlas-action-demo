@@ -30,9 +30,6 @@ table "orders" {
   column "user_id" {
     type = int
   }
-  column "total" {
-    type = decimal
-  }
   foreign_key "user_orders" {
     columns = [column.user_id]
     ref_columns = [table.users.column.id]
