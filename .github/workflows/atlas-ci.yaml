@@ -36,4 +36,3 @@ jobs:
           dir: migrations/
           dir-format: golang-migrate # Or: atlas, goose, dbmate
           dev-url: mysql://root:pass@localhost:3306/test
-

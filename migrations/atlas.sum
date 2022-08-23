@@ -1,7 +1,9 @@
-h1:CJjw0ZjKhPUcqranKB7pqGa7TthfSfeVAk5zTjsxivA=
+h1:VCNwVFIpgmDL3X/ul5Ai639B5UgZ1TdnjEG5/PkNVoQ=
 20220819060736_init.down.sql h1:1Q7sAkqhsMn3irNL57fJLBenxgJQfYxZY/m8eZ3kVD8=
 20220819060736_init.up.sql h1:gQ8hzx9NeLs9xo7gSR+i64gSdMpZaePhyUnjYHtsxYk=
 20220819061056_add_email.down.sql h1:Y+yRB9xObMtZtJdyTgnT9gLbdou7Y8sSohnJH/u1EGE=
 20220819061056_add_email.up.sql h1:tjVcIFwsrBGn6ysCWT8/4r3uDPDd4xTwV/C3Ck3ypbw=
 20220819075145_add_orders.down.sql h1:wNDGIzSkWIiKkp7egQsmSfZmJcW1Q8CXvL5pmv5bIl4=
 20220819075145_add_orders.up.sql h1:vo4XRinILU846wy2oxihSMkuqmphdoc7mtRReuk+dOk=
+20220819081116_drop_orders_total.down.sql h1:UiwmVQ8NaaA9tVkAiHJfQejSNLiB/yPUM3iILo8zHMY=
+20220819081116_drop_orders_total.up.sql h1:ZztJ41wXp8mR093MFzAE+UOxa5ZKUQo4WDrC2+bqH8Y=
